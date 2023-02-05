@@ -2,6 +2,6 @@
 
 Will be re-submitting.
 
-[GitHub]()
+[GitHub](https://github.com/irkag22/Workday-Scheduler)
 
-[Live Link]()
+[Live Link](https://irkag22.github.io/Workday-Scheduler/)
